@@ -16,4 +16,5 @@ bash WOXSEN-PROJECT.sh
 ## Author
 
 Meghana Jaiswal
+This line is added in bug-fix-typo branch.
 
